@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rahul Singh!
 
-Welcome to my GitHub profile! I'm a **Data Engineer** and **Backend Developer** with over 9 years of experience building scalable, high-performance systems for data processing and backend applications. My work bridges **real-time data engineering** and **cloud-native backend development**, with a focus on delivering impactful and efficient solutions.
+Welcome to my GitHub profile! I'm a Data Engineer and Backend Developer with over 9 years of experience building scalable, high-performance systems for data processing and backend applications. My work bridges real-time data engineering and cloud-native backend development, with a focus on delivering impactful and efficient solutions.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 **Data Engineering Expertise**: Designed and deployed robust data lakes, scalable ETL pipelines, and real-time streaming solutions using Apache Kafka, Spark, Hudi, and Airflow.
-- 💻 **Golang Backend Development**: Specialized in microservices, gRPC, REST APIs, and distributed systems with a focus on high availability and performance.
+- 💻 **Golang Backend Development**: Specialized in microservices, gRPC, REST APIs, and distributed systems focusing on high availability and performance.
 - 🌱 **Cloud Infrastructure**: Extensive experience with AWS and GCP, leveraging Terraform, Docker, and Kubernetes for infrastructure automation.
 - 🎯 **Current Focus**: Building distributed systems with Raft consensus, optimizing Kafka-based tick data pipelines, and exploring SSO integrations for enterprise applications.
 - 📝 **Blog Author**: Sharing insights on data engineering and backend systems on [Medium](https://medium.com/@rhlkmr089).
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a **Data Engineer** and **Backend Developer** 
 ![Golang](https://skillicons.dev/icons?i=go) ![Scala](https://skillicons.dev/icons?i=scala) ![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=mysql,postgresql)
 
 **Data Engineering**:  
-![Kafka](https://skillicons.dev/icons?i=kafka) ![Spark](https://skillicons.dev/icons?i=apache) ![Airflow](https://skillicons.dev/icons?i=airflow)
+![Kafka](https://skillicons.dev/icons?i=kafka) ![Spark](https://skillicons.dev/icons?i=spark) ![Airflow](https://skillicons.dev/icons?i=apache-airflow)
 
 **Backend Development**:  
 ![Gin](https://skillicons.dev/icons?i=go) ![Fiber](https://skillicons.dev/icons?i=go) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
@@ -35,21 +35,20 @@ Welcome to my GitHub profile! I'm a **Data Engineer** and **Backend Developer** 
 
 ## 🌟 Key Projects
 
-### 🚦 **Real-Time Data Pipelines**  
-- Built a **real-time data pipeline** integrating MT4, MT5, and cTrader platforms for **trading analytics**.
-- Engineered a **Kafka Streams-based position tracker** for trade reconciliation.
+### 🛠️ **Fake Data Producer**
+- Developed a versatile tool to generate synthetic data for testing and development purposes, supporting customizable data types and formats. [Repository Link](https://github.com/gameofdatas/fake-data-producer)
 
-### 🗃️ **Distributed Storage Solution**  
-- Developed a **fault-tolerant storage system** using BadgerDB and Raft for high availability.
-- Optimized handling of small and large data chunks for seamless performance.
+### 🗃️ **Datalake**
+- Implemented a local data lake solution integrating Apache Hudi and Debezium for efficient Change Data Capture (CDC) processing. [Repository Link](https://github.com/gameofdatas/datalake)
 
-### 🖥️ **High-Performance Backend**  
-- Architected and implemented a **FinTech FIX protocol service**, streaming financial data to Kafka and S3.
-- Built a microservices backend to safeguard against file-based threats, following TDD principles.
+### ⚡ **Caching Algorithms**
+- Created in-memory caching solutions implementing various eviction algorithms like LRU, LFU, and FIFO for optimized data retrieval. [Repository Link](https://github.com/gameofdatas/caching)
 
-### 💡 **GDPR Compliance**  
-- Led the development of GDPR-compliant PII deletion workflows to enhance data governance and privacy.
+### 📊 **Order Book**
+- Designed a system to process and analyze financial order book data, facilitating real-time trading insights. [Repository Link](https://github.com/gameofdatas/orderbook)
 
+### 🚀 **RaftBadger**
+- Built a distributed key-value store combining Raft consensus algorithm with BadgerDB for high availability and fault tolerance. [Repository Link](https://github.com/gameofdatas/raftbadger)
 ---
 
 ## 📈 GitHub Stats
@@ -61,6 +60,6 @@ Welcome to my GitHub profile! I'm a **Data Engineer** and **Backend Developer** 
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-singh)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-singh-581927167)  
 - ✍️ [Medium Blog](https://medium.com/@rhlkmr089)  
 - 💼 [Portfolio](https://github.com/gameofdatas)  
